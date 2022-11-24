@@ -15,10 +15,10 @@
 
 <p align="center">
 <h1>Desktop:</h1>
-  <img alt="card da nlw" src=".github/desktop.png" width="100%">
+  <img alt="pagina de jogos, streams e canais favoritos" src=".github/desktop.png" width="100%">
  
 <h1>Mobile:</h1>
-  <img alt="card da nlw" src=".github/mobile.png" width="30%">
+  <img alt="pagina de jogos, streams e canais favoritos" src=".github/mobile.png" width="30%">
 </p>
 
 ## 🚀 Tecnologias
